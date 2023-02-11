@@ -1,0 +1,55 @@
+Jay Modi 
+Shikago Park,Kamal Circle, Kadi, Gujarat 
+7046310706 | https://www.linkedin.com/in/jaymodi999 
+jaypmodi999@gmail.com
+
+About
+
+An enthusiastic computer engineering graduate who is seeking an entry-level position to add value in his career as well as in the organization.
+
+Professional Title
+
+Quick learner | Problem solver | Presenter | Critical thinker
+
+Education
+Goverment Engineering College , Gandhinagar                   Computer Engineering(pursuing) 
+05/2023
+Gandhinagar , Gujarat
+Currently studying in 6th Semester, have maintained 8.50 CPI(till semester 5)
+Served as Class Co-ordinator for Second Year (2020 to 2021 academic year)
+Gayatri Vidhyalaya                   HSC Science 
+04/2019
+Ahmedabad , Gujarat
+Percentile Rank: 95.47  |  Percentages: 82.33%
+S.B.Vidhyalaya                   SSC  
+04/2017
+Ahmedabad , Gujarat
+Percentile rank:99.71 | Percentages:91.5%
+
+Technical Skills
+
+Programming languages: C, JAVA, Python
+Scripting Languages:HTML ,CSS,JS
+Data Structures and Algorithms
+SQL
+Framework :- Django
+OOPS concept
+Probability and Statistics
+Basics of Data Science and Machine Learning
+
+Additional Section
+
+I was qualified in the"Google Code Jam 2022" qualification round with 5258 rank.
+Our team of five members has done Campaigning for our college techfest "QUENCH 2020" with the highest number of registrations(around 300).
+I have worked as a volunteer and presenter in "Cyber Safety and Security Awareness Week" which was organized under the collaboration of GTU, ISEA, CyberDost and C-DAC. I have taken workshop under that program at "S.M.T. S R Mehta ARTS & COMMERCE College".
+Got 95.79 percentile rank in Gujcet and 92.33... percentile rank in JEE-Mains.
+I have reached till district level in "YUVA PRATIBHA SODH" program in elocution.
+I have participated as well as managed various type of events and meetings in BAPS organization.
+My hobbies are : playing chess , various type of strategy making activities.
+
+Experience
+
+Price prediction using Linear Regression model and fronted using Django framework.
+Created a web platform named "E-waste" using HTML, CSS, and JS.
+Data visualization dashboard using HTML,CSS,a and JS.
+I have taken online tuition of SSC students during the lockdown.
